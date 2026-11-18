@@ -2,13 +2,17 @@
 
 A starter kit for building the same 60-second Blender film of Plaza Las Delicias (Ponce, Puerto Rico) with different AI coding agents, so their results can be compared.
 
-▶️ **First result:** [Plaza Las Delicias in Ponce, Puerto Rico (Opus 5.5 + Blender)](https://youtu.be/kV5VfUB9L4g), my first rendering of this brief, made with Claude Opus 5.5.
-
 It holds only the brief and the references. Every run starts from here and makes its own models, stills, music and renders.
 
 - `PROMPT.md`: the brief. The agent's starting point.
 - `brief/`: the details for each subject, linked from `PROMPT.md`.
 - `refs/`: curated reference photos, drone frames, the music scores and the NRHP file. Private modeling material: see `refs/SOURCES.txt`. Don't make this repo public.
+
+## Rendered videos
+
+| Vendor | Model | Rendering time | Rendered on | Cost | Video |
+|---|---|---|---|---|---|
+| Anthropic | Claude Opus 5.5 | ~1 h 15 min (~3 h incl. setup, download and encoding) | 16× RTX 5090 (Vast.ai) | ~$28 | [▶️ YouTube](https://youtu.be/kV5VfUB9L4g) |
 
 ## Starting a run
 
