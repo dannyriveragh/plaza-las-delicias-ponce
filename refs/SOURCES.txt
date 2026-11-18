@@ -1,0 +1,86 @@
+Sources for the files in refs/. Most of these images are under copyright: Creative Commons, all rights
+reserved, or unknown. They are here as private modelling references only. Do not redistribute them or
+show them in the film.
+
+refs/music/*
+    Juan Morel Campos (1857-1896): La Incógnita, La Olimpia Op. 166 and Una caña al aire. Public-domain scores via IMSLP (imslp.org).
+refs/nrhp/*
+    U.S. National Park Service, National Register of Historic Places nomination for Parque de Bombas (U.S. government work).
+refs/photos/01-aerial/*
+    Google Earth 3D screenshots taken by the user (Google; imagery and 3D data copyright their owners).
+refs/photos/02-plaza-overview/02_2_Ponce_City_Hall_from_Plaza_Las_Delicias.jpg
+    https://commons.wikimedia.org/wiki/File:2_Ponce_City_Hall_from_Plaza_Las_Delicias.jpg | Ligocsicnarf89 | CC BY 4.0
+refs/photos/03-parque-de-bombas/01_Parque_de_Bombas_-_Ponce_Puerto_Rico.jpg
+    https://commons.wikimedia.org/wiki/File:Parque_de_Bombas_-_Ponce_Puerto_Rico.jpg | Ian Poellet | CC BY-SA 4.0
+refs/photos/03-parque-de-bombas/02_Parque_de_Bombas_de_Ponce_2025_.jpg
+    https://commons.wikimedia.org/wiki/File:Parque_de_Bombas_de_Ponce_(2025).jpg | Ligocsicnarf89 | CC BY 4.0
+refs/photos/03-parque-de-bombas/03_Parque_de_Bombas_and_Cathedral_in_Ponce_Puerto_Rico_taken_in_1977_from_atop_of_H.jpg
+    https://commons.wikimedia.org/wiki/File:Parque_de_Bombas_and_Cathedral_in_Ponce,_Puerto_Rico,_taken_in_1977_from_atop_of_Hotel_Meli%C3%A1,_looking_northwest.jpg | Jack E. Boucher | Public domain
+refs/photos/03-parque-de-bombas/04_Ponce_-_Parque_de_Bomberos.jpg
+    https://commons.wikimedia.org/wiki/File:Ponce_-_Parque_de_Bomberos.jpg | Unknown author | Public domain
+refs/photos/03-parque-de-bombas/06_Parque_de_Bombas_Ponce.JPG
+    https://commons.wikimedia.org/wiki/File:Parque_de_Bombas,_Ponce.JPG | User:Mtmelendez | CC BY-SA 3.0
+refs/photos/03-parque-de-bombas/07_parque_de_bombas.png
+    Added by the user; source not recorded.
+refs/photos/04-cathedral/01_Ponce_-_Catedral_de_Nuestra_Se_ora_de_Guadalupe.jpg
+    https://commons.wikimedia.org/wiki/File:Ponce_-_Catedral_de_Nuestra_Se%C3%B1ora_de_Guadalupe.jpg | Rotograph Co. | Public domain
+refs/photos/04-cathedral/02_Catedral_Nuestra_Se_ora_de_Guadalupe_of_Ponce.jpg
+    https://commons.wikimedia.org/wiki/File:Catedral_Nuestra_Se%C3%B1ora_de_Guadalupe_of_Ponce.jpg | Asreger | CC BY-SA 4.0
+refs/photos/04-cathedral/03_Ponce_-_Iglesia_de_Nuestra_Se_ora_de_Guadalupe.jpg
+    https://commons.wikimedia.org/wiki/File:Ponce_-_Iglesia_de_Nuestra_Se%C3%B1ora_de_Guadalupe.jpg | F. Liebig, San Juan (publisher) | Public domain
+refs/photos/04-cathedral/04_catedral.png
+    Added by the user; source not recorded.
+refs/photos/05-fuente-de-los-leones/01_Fuente_de_los_Leones_-_Ponce_Puerto_Rico.jpg
+    https://commons.wikimedia.org/wiki/File:Fuente_de_los_Leones_-_Ponce_Puerto_Rico.jpg | Ian Poellet | CC BY-SA 4.0
+refs/photos/05-fuente-de-los-leones/02_Ponce_-_Fuente_de_los_leones.jpg
+    https://commons.wikimedia.org/wiki/File:Ponce_-_Fuente_de_los_leones.jpg | P. Hughes | CC BY-SA 4.0
+refs/photos/05-fuente-de-los-leones/04_A_lion_fountain_at_Plaza_Degetau_Ponce_Puerto_Rico.jpg
+    https://commons.wikimedia.org/wiki/File:A_lion_fountain_at_Plaza_Degetau,_Ponce,_Puerto_Rico.jpg | Lorie Shaull | CC BY-SA 2.0
+refs/photos/05-fuente-de-los-leones/05_Fountain_of_Lions_in_Ponce.JPG
+    https://commons.wikimedia.org/wiki/File:Fountain_of_Lions_in_Ponce.JPG | User:Mtmelendez | CC BY-SA 3.0
+refs/photos/05-fuente-de-los-leones/06_Fountain_of_Lions,_Ponce.jpeg
+    Added by the user; source not recorded.
+refs/photos/05-fuente-de-los-leones/07_fuente_de_los_leones.png
+    Added by the user; source not recorded.
+refs/photos/06-north-plaza-munoz-rivera/01_Plaza_Munoz_Rivera,_looking_east,_in_Ponce,_Puerto_Rico_(IMG_3750).jpg
+    Added by the user; source not recorded.
+refs/photos/06-north-plaza-munoz-rivera/02_Plaza_Munoz_Rivera,_looking_west,_in_Barrio_Segundo,_Ponce,_PR_(IMG_3749).jpg
+    Added by the user; source not recorded.
+refs/photos/06-north-plaza-munoz-rivera/03_StatueofLuisMunozRivera .jpg
+    Added by the user; source not recorded.
+refs/photos/07-south-plaza-degetau/01_ponce-composer-tribute-juan-morel-campos-statue-on-the-plaza-federico-degetau-in-ponce-puerto-rico-3D9B1NH.jpg
+    Added by the user; source not recorded.
+refs/photos/07-south-plaza-degetau/02_is-ponce-plaza.webp
+    Added by the user; source not recorded.
+refs/photos/08-juan-morel-campos-statue/01_statue_juan_morel_campos.png
+    Added by the user; source not recorded.
+refs/photos/10-other-monuments/01_Colorful_lion_in_Ponce_Puerto_Rico.jpg
+    https://commons.wikimedia.org/wiki/File:Colorful_lion_in_Ponce,_Puerto_Rico.jpg | Clembore Memotech | CC BY-SA 2.0
+refs/photos/10-other-monuments/02_obelisk_polvorin.jpg
+    Added by the user; source not recorded.
+refs/photos/10-other-monuments/03_obelisk_polvorin.jpg
+    Added by the user; source not recorded.
+refs/photos/10-other-monuments/04_obelisk_polvorin.jpg
+    Added by the user; source not recorded.
+refs/photos/10-other-monuments/05_obelisk_polvorin.jpg
+    Added by the user; source not recorded.
+refs/photos/10-other-monuments/06_obelisk_polvorin.jpg
+    Added by the user; source not recorded.
+refs/photos/11-surroundings/01_Ponce_City_Hall.JPG
+    https://commons.wikimedia.org/wiki/File:Ponce_City_Hall.JPG | User:Mtmelendez | CC BY-SA 3.0
+refs/photos/11-surroundings/02_Ponce_-_City_Hall_01.jpg
+    https://commons.wikimedia.org/wiki/File:Ponce_-_City_Hall_01.jpg | Published for Matias Photo Shop, San Juan by Tichnor Brothers, Boston | Public domain
+refs/photos/11-surroundings/03_Ponce_-_Alcaldia.jpg
+    https://commons.wikimedia.org/wiki/File:Ponce_-_Alcaldia.jpg | P. Hughes | CC BY-SA 4.0
+refs/photos/11-surroundings/04_Ponce_Historic_Zone_2025_-3.jpg
+    https://commons.wikimedia.org/wiki/File:Ponce_Historic_Zone_(2025)-3.jpg | Ligocsicnarf89 | CC BY 4.0
+refs/photos/11-surroundings/05_Christmas_at_Ponce_City_Hall_December_2015.jpg
+    https://commons.wikimedia.org/wiki/File:Christmas_at_Ponce_City_Hall_December_2015.jpg | Katharine Liang | CC BY-SA 4.0
+refs/photos/12-indian-laurel-trees/01_Ficus_microcarpa_-_La_Gomera_02.jpg
+    https://commons.wikimedia.org/wiki/File:Ficus_microcarpa_-_La_Gomera_02.jpg | H. Zell | CC BY-SA 3.0
+refs/photos/12-indian-laurel-trees/02_Trunk_of_a_Ficus_microcarpa_tree_at_Kambalakonda_WIldlife_Sanctuary.jpg
+    https://commons.wikimedia.org/wiki/File:Trunk_of_a_Ficus_microcarpa_tree_at_Kambalakonda_WIldlife_Sanctuary.jpg | Adityamadhav83 | CC BY-SA 4.0
+refs/photos/13-parque-de-bombas-truck-and-interior/*
+    Added by the user; sources not recorded. Several images carry stock-photo watermarks. 13 and 14 are the same image.
+refs/video/frames/*
+    Frames picked by the user from a drone video of the plaza; source not recorded.
