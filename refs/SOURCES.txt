@@ -82,4 +82,6 @@ refs/photos/12-indian-laurel-trees/02_Trunk_of_a_Ficus_microcarpa_tree_at_Kambal
 refs/photos/13-parque-de-bombas-truck-and-interior/*
     Added by the user; sources not recorded. 04 carries the YouShouldGoToo.com logo. 13 and 14 are the same image.
 refs/video/frames/*
-    Frames picked by the user from a drone video of the plaza; source not recorded.
+    Frames picked by the user from a drone video of the plaza: https://youtu.be/wVl01cWgd30 | Geo Puerto Rico
+    (YouTube https://www.youtube.com/@GeoPuertoRico, Instagram https://instagram.com/geo_puerto_rico,
+    Facebook https://facebook.com/Geo-Puerto-Rico-109776254142138) | All rights reserved by the creator
