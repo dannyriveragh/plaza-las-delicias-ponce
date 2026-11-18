@@ -22,7 +22,7 @@ Keep this file open as your reference. Re-read it whenever you resume after a br
 
 ## References — the source of truth
 
-I've hand-curated everything in `refs/`. Some photo folders are sparse on purpose; I deleted unusable images. `refs/SOURCES.txt` lists where each file came from. The references are private modeling material: never show them in the film.
+I've hand-curated everything in `refs/`. Some photo folders are sparse on purpose; I deleted unusable images. `refs/SOURCES.txt` lists where each file came from. The references are for modeling only: never show them in the film.
 
 **Layout references (highest priority):**
 - `refs/video/frames/`: frames I picked from a drone video of the plaza. Use these first for layout, proportions and the look of each building from above.
@@ -36,6 +36,7 @@ I've hand-curated everything in `refs/`. Some photo folders are sparse on purpos
 - `refs/music/`: three public-domain piano danzas by Juan Morel Campos (IMSLP scans): *La Olimpia, Op. 166*, *La Incógnita*, and *Una caña al aire*.
 
 **Working with them:**
+- **Before you start Checkpoint 1, ask me:** "Do you want to use only the reference pictures provided here, or do you wish to visit Alamy.com or other websites to find more reference pictures and place them in the correct folder?" If I add pictures, wait until I say I'm done, then add a line for each new file to `refs/SOURCES.txt` (its source, if I give one). Don't download from stock-photo sites yourself.
 - To save tokens, first build low-res contact sheets of each folder with ffmpeg's `tile` filter. Then open only the images you need at full size, when you model that element. Don't re-open images you've already studied.
 - **Where the references disagree with the brief, the references win.** If two references disagree with each other, tell me.
 

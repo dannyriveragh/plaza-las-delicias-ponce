@@ -1,6 +1,6 @@
 # The fire truck — Ford Model A "Ponce Engine Co. No. 2"
 
-References: `refs/photos/13-parque-de-bombas-truck-and-interior/` (several photos carry stock-photo watermarks; ignore them).
+References: `refs/photos/13-parque-de-bombas-truck-and-interior/` (one photo carries a website logo; ignore it).
 
 It is on display inside the Parque de Bombas museum hall (`brief/02-parque-de-bombas.md`), visible through the open bay, and it is the focus of shot 2 (`brief/08-camera-and-titles.md`). It is a hero asset. Where the photos and this description disagree, the photos win.
 

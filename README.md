@@ -6,7 +6,7 @@ It holds only the brief and the references. Every run starts from here and makes
 
 - `PROMPT.md`: the brief. The agent's starting point.
 - `brief/`: the details for each subject, linked from `PROMPT.md`.
-- `refs/`: curated reference photos, drone frames, the music scores and the NRHP file. Private modeling material: see `refs/SOURCES.txt`. Don't make this repo public.
+- `refs/`: curated reference photos, drone frames, the music scores and the NRHP file. For modeling only: credits and licenses are in `refs/SOURCES.txt`.
 
 ## Rendered videos
 
@@ -24,6 +24,12 @@ cd ~/code/ponce-fable-5.2 && git switch -c fable-5.2
 ```
 
 Then start the agent in that folder and tell it: "Read PROMPT.md and begin."
+
+## Adding your own references
+
+The references here are a starting point. Before modeling starts, the agent asks whether you want to add more. If you do, look on stock and photo sites such as [Alamy](https://www.alamy.com), [Wikimedia Commons](https://commons.wikimedia.org) or [Flickr](https://www.flickr.com). Put each image in the matching `refs/photos/<subject>/` folder (or `refs/video/frames/` for aerial views), then tell the agent.
+
+Respect each image's license. Keep images you have no right to share out of anything you push: add them to `.git/info/exclude`, or simply don't commit them.
 
 ## What a run needs on the Mac
 
