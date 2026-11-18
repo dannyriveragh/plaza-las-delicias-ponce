@@ -36,7 +36,11 @@ I've hand-curated everything in `refs/`. Some photo folders are sparse on purpos
 - `refs/music/`: three public-domain piano danzas by Juan Morel Campos (IMSLP scans): *La Olimpia, Op. 166*, *La Incógnita*, and *Una caña al aire*.
 
 **Working with them:**
-- **Before you start Checkpoint 1, ask me:** "Do you want to use only the reference pictures provided here, or do you wish to visit Alamy.com or other websites to find more reference pictures and place them in the correct folder?" If I add pictures, wait until I say I'm done, then add a line for each new file to `refs/SOURCES.txt` (its source, if I give one). Don't download from stock-photo sites yourself.
+- **Before you start Checkpoint 1,** look through `refs/` and note which subjects have few or weak pictures. Then ask me:
+
+  *"Before I start modeling: do you want me to work only from the reference pictures in `refs/`, or would you like to add more first? Coverage is thinnest for: [the subjects you noted]. Good places to look are Alamy, Wikimedia Commons and Flickr. Put each picture in the matching `refs/photos/<subject>/` folder and tell me when you're done."*
+
+  If I add pictures, wait until I say I'm done. Then add a line for each new file to `refs/SOURCES.txt`, with its source if I give one. Don't download from stock-photo sites yourself.
 - To save tokens, first build low-res contact sheets of each folder with ffmpeg's `tile` filter. Then open only the images you need at full size, when you model that element. Don't re-open images you've already studied.
 - **Where the references disagree with the brief, the references win.** If two references disagree with each other, tell me.
 
