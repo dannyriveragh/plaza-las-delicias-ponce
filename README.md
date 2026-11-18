@@ -2,6 +2,8 @@
 
 A starter kit for building the same 60-second Blender film of Plaza Las Delicias (Ponce, Puerto Rico) with different AI coding agents, so their results can be compared.
 
+▶️ **First result:** [Plaza Las Delicias in Ponce, Puerto Rico (Opus 5.5 + Blender)](https://youtu.be/kV5VfUB9L4g), my first rendering of this brief, made with Claude Opus 5.5.
+
 It holds only the brief and the references. Every run starts from here and makes its own models, stills, music and renders.
 
 - `PROMPT.md`: the brief. The agent's starting point.
