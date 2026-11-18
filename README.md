@@ -40,3 +40,8 @@ Respect each image's license. Keep images you have no right to share out of anyt
 ## Keeping a run's result
 
 Pushing a run's branch back is optional. Leave out renders and videos. A `ponce.blend` over 100 MB needs Git LFS, or keep it local.
+
+## Credits
+
+- Aerial drone frames in `refs/video/frames/` are from [this drone video of the plaza](https://youtu.be/wVl01cWgd30) by **Geo Puerto Rico** ([YouTube](https://www.youtube.com/@GeoPuertoRico) · [Instagram](https://instagram.com/geo_puerto_rico) · [Facebook](https://facebook.com/Geo-Puerto-Rico-109776254142138)), used with credit as modeling reference only.
+- Credits and licenses for every other reference are in `refs/SOURCES.txt`.
